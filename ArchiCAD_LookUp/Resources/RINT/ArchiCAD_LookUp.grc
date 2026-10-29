@@ -1,0 +1,9 @@
+'STR#' 32000 "Add-on Name and Description" {
+/* [  1] */		"Archicad Lookup"
+/* [  2] */		"Browse the data Archicad holds about the selected elements and the project (read only)"
+}
+
+'STR#' 32500 "Menu: Lookup" {
+/* [   ] */		"Lookup"
+/* [  1] */		"Lookup...^ES^EE^EI^ED^EW^E3^EL"
+}

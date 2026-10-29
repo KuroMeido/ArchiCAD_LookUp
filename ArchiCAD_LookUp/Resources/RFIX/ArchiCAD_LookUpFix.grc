@@ -1,0 +1,7 @@
+#include "MDIDs_APICD.h"
+'MDID' 32500 "Add-On Identifier" {
+	// Test IDs only. Request a real Developer ID / Local ID from Graphisoft before distributing.
+	// Local ID 778: differs from pyAtlas (304) and the Add-in Manager (777), so all load together.
+	MDID_APICD
+	778
+}

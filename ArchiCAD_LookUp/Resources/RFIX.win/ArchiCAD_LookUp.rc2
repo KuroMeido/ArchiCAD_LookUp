@@ -1,0 +1,4 @@
+#include "DGDefs.h"
+
+#include "ArchiCAD_LookUp.grc.rc2"
+#include "ArchiCAD_LookUpFix.grc.rc2"

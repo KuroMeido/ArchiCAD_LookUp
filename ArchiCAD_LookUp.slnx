@@ -1,0 +1,10 @@
+
+<!-- Written by CMakeLists.txt (configure preset ac27-vs): edit CMake, not this file. -->
+<Solution>
+	<Configurations>
+		<BuildType Name="Debug-AC27" />
+		<BuildType Name="Release-AC27" />
+		<Platform Name="x64" />
+	</Configurations>
+	<Project Path="build-vs/ArchiCAD_LookUp/ArchiCAD_LookUp.vcxproj" DefaultStartup="true" Id="95562862-39f8-3c41-8108-d25b66ab8097" />
+</Solution>
